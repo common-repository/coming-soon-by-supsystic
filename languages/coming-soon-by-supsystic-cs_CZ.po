@@ -1,0 +1,1250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Coming Soon Supsystic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-14 13:28+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: supsystic.com <supsystic.team@gmail.com>\n"
+"Language-Team: supsystic.com <supsystic.team@gmail.com>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../classes/controller.php:198 ../classes/controller.php:206
+#: ../modules/mail/controller.php:23 ../modules/octo/controller.php:7
+#: ../modules/octo/controller.php:33 ../modules/octo/controller.php:43
+#: ../modules/octo/controller.php:203 ../modules/octo/controller.php:211
+#: ../modules/octo/controller.php:219 ../modules/octo/controller.php:227
+#: ../modules/options/controller.php:6
+msgid "Done"
+msgstr "Hotovo"
+
+#: ../classes/field.php:131
+msgid "Select"
+msgstr "Vybrat"
+
+#: ../classes/field.php:170 ../classes/field.php:179 ../classes/field.php:184
+msgid "N/A"
+msgstr "neuvedena"
+
+#: ../classes/field.php:277
+msgid "Add Checkbox"
+msgstr "Přidat zaškrtávací políčko"
+
+#: ../classes/field.php:282 ../classes/field.php:287
+msgid "Add Item"
+msgstr "Přidat položku"
+
+#: ../classes/field.php:293
+msgid "Add Radio Button"
+msgstr "Přidat přepínač"
+
+#: ../classes/field.php:311
+msgid "Dimensions"
+msgstr "Rozměry"
+
+#: ../classes/field.php:314
+msgid "width"
+msgstr "šířka"
+
+#: ../classes/field.php:316
+msgid "height"
+msgstr "výška"
+
+#: ../classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "Klikni pro nastavení \"id\" a \"class\" pro pole"
+
+#: ../classes/field.php:324
+msgid "Attributes"
+msgstr "Atributy"
+
+#: ../classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Tento modul nemá žádné nastavení."
+
+#: ../classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "Aplikovat na"
+
+#: ../classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "Adresa"
+
+#: ../classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Cíl"
+
+#: ../classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Země"
+
+#: ../classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Kategorie"
+
+#: ../classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "Žádné kategorie"
+
+#: ../classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Značky"
+
+#: ../classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "Žádné značky"
+
+#: ../classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "Nastavení daní"
+
+#: ../classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Absolutní"
+
+#: ../classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "nezvoleno"
+
+#: ../classes/fieldAdapter.php:184
+msgid "class"
+msgstr "class"
+
+#: ../classes/fieldAdapter.php:186
+msgid "id"
+msgstr "id"
+
+#: ../classes/html.php:241
+msgid "Upload"
+msgstr "Nahrát"
+
+#: ../classes/html.php:649
+msgid "ON"
+msgstr "ZAPNUTO"
+
+#: ../classes/html.php:650
+msgid "OFF"
+msgstr "VYPNUTO"
+
+#: ../classes/html.php:674
+#, php-format
+msgid "Select %s"
+msgstr "Zvolit %s"
+
+#: ../classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr "Přesun souborů do %s selhal"
+
+#: ../classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr "%s není plugin"
+
+#: ../classes/modInstaller.php:76
+msgid "Can not create module directory. Try to set permission to "
+msgstr "Nelze vytvořit složku pro modul. Zkus nastavit oprávnění pro"
+
+#: ../classes/modInstaller.php:104
+msgid "No modules were found in XML file"
+msgstr "XML soubor neobsahuje žádné moduly"
+
+#: ../classes/modInstaller.php:108
+msgid "Invalid XML file"
+msgstr "Neplatný XML soubor"
+
+#: ../classes/modInstaller.php:110
+msgid "No XML file were found"
+msgstr "XML soubor nebyl nalezen"
+
+#: ../classes/modInstaller.php:123
+#, fuzzy
+#| msgid "No modules were found in XML file"
+msgid "No modules were found in installation file"
+msgstr "XML soubor neobsahuje žádné moduly"
+
+#: ../classes/modInstaller.php:127
+#, fuzzy
+#| msgid "No XML file were found"
+msgid "No installation file were found"
+msgstr "XML soubor nebyl nalezen"
+
+#: ../classes/modInstaller.php:149
+#, php-format
+msgid "Install %s failed"
+msgstr "Instalace %s selhala"
+
+#: ../classes/modInstaller.php:155
+msgid "Error Activate module"
+msgstr "Chyba při aktivaci modulu"
+
+#: ../classes/modInstaller.php:184
+msgid "Error Deactivation module"
+msgstr "Chyba při deaktivaci modulu"
+
+#: ../classes/modInstaller.php:201
+msgid "Error Activating module"
+msgstr "Chyba během aktivace modulu"
+
+#: ../classes/model.php:182 ../classes/model.php:194
+#: ../modules/octo/models/octo.php:29 ../modules/octo/models/octo.php:41
+#: ../modules/octo/models/octo_blocks.php:32
+#: ../modules/octo/models/octo_blocks.php:44
+msgid "Database error detected"
+msgstr "Objevena chyba databáze"
+
+#: ../classes/model.php:184 ../modules/octo/models/octo.php:31
+#: ../modules/octo/models/octo.php:55 ../modules/octo/models/octo_blocks.php:34
+msgid "Invalid ID"
+msgstr "Špatné ID"
+
+#: ../classes/model.php:220 ../modules/subscribe/models/subscribe.php:31
+#: ../modules/subscribe/models/subscribe.php:33
+msgid "Empty or invalid ID"
+msgstr "Prázdné nebo neplatné ID"
+
+#: ../classes/table.php:278
+msgid "Nothig to update"
+msgstr "Nic k aktualizaci"
+
+#: ../classes/table.php:294
+msgid "Database error. Please contact your developer."
+msgstr "Chyba databáze, kontaktuj prosím vývojáře."
+
+#: ../classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr "Špatná délka %s, maximální délka je  %s"
+
+#: ../classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr "Špatné číslo pro %s"
+
+#: ../classes/validator.php:71 ../modules/subscribe/models/subscribe.php:46
+#: ../modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please enter %s"
+msgstr "Zadej  %s"
+
+#: ../classes/validator.php:78 ../modules/subscribe/models/subscribe.php:45
+#: ../modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please select %s"
+msgstr "Zvol %s"
+
+#: ../classes/validator.php:85 ../classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr "Neplatné %s"
+
+#: ../classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr "%s je již registrováno"
+
+#: ../modules/adminmenu/mod.php:13
+#, php-format
+msgid ""
+"Cool WordPress plugins from supsystic.com developers. I tried %s - and this "
+"was what I need! #supsystic.com"
+msgstr ""
+"Super WordPress pluginy od supsystic.com vývojářů. Zkusil jsem %s - a je to "
+"přesně to co potřebuju! #supsystic.com"
+
+#: ../modules/adminmenu/mod.php:14 ../modules/coming_soon/mod.php:24
+#: ../modules/options/mod.php:42
+msgid "Settings"
+msgstr "Nastavení"
+
+#: ../modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr "Více pluginů pro Wordpress weby zde!"
+
+#: ../modules/adminmenu/mod.php:16 ../modules/adminmenu/mod.php:17
+#: ../modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr "Šíříme do světa!"
+
+#: ../modules/coming_soon/mod.php:18
+msgid ""
+"Please select template for your Coming Soon page before saving this mode"
+msgstr ""
+"Vyber prosím před uložením tohoto režim šablonu pro Coming Soon stránku "
+
+#: ../modules/coming_soon/mod.php:33
+msgid "General"
+msgstr "Obecné"
+
+#: ../modules/coming_soon/mod.php:38
+msgid "Coming Soon Mode"
+msgstr "Coming Soon režim"
+
+#: ../modules/coming_soon/mod.php:39
+msgid "Select in which mode do You want to use our plugin"
+msgstr "Vyber, v jakém režimu chceš provozovat tento modul"
+
+#: ../modules/coming_soon/mod.php:42
+msgid "Disabled"
+msgstr "Zakázat"
+
+#: ../modules/coming_soon/mod.php:42
+msgid "Coming Soon Page"
+msgstr "Coming Soon stránka"
+
+#: ../modules/coming_soon/mod.php:42
+msgid "Redirect to URL"
+msgstr "Přesměrování na URL"
+
+#: ../modules/coming_soon/mod.php:42
+msgid "503 Header Response"
+msgstr "503 Header odezva"
+
+#: ../modules/coming_soon/mod.php:47
+msgid "Template Settings"
+msgstr "Nastavení šablony"
+
+#: ../modules/coming_soon/mod.php:61
+msgid "Redirect Settings"
+msgstr "Nastavení přesměrování"
+
+#: ../modules/coming_soon/mod.php:66
+msgid "Redirect URL"
+msgstr "URL přesměrování"
+
+#: ../modules/coming_soon/mod.php:67
+msgid ""
+"Enter URL where visitors will be redirected when visit your site while it is "
+"in Maintenance mode"
+msgstr ""
+"Zadej prosím URL adresu, kam budou návštěvníci přesměrování pokud bude "
+"nastaven režim údržby"
+
+#: ../modules/coming_soon/mod.php:74
+msgid "Site View Options"
+msgstr "Nastavení zobrazení webu"
+
+#: ../modules/coming_soon/mod.php:78
+msgid "Login URL"
+msgstr "Přihlašovací URL"
+
+#: ../modules/coming_soon/mod.php:79
+msgid ""
+"Please note - if you will change login url for your site, you need to set "
+"new login url for this option too."
+msgstr ""
+"Pamatujte - pokud si změníte přihlašovací URL pro tento web, musíte nastavit "
+"nové URL i v tomto poli."
+
+#: ../modules/coming_soon/mod.php:84
+msgid "User Roles"
+msgstr "Uživatelské role"
+
+#: ../modules/coming_soon/mod.php:85
+msgid ""
+"By default only administrator can view site, but here you can select other "
+"user roles that can view your site while it is under construction. Note that "
+"administrator can always view site (even if de-selected in this list)."
+msgstr ""
+"Ve výchozím stavu může tento web prohlížet pouze administrátor, zde však "
+"můžete upravit další uživatelské role, které mohou vidět web během výstavby. "
+"Administrátor web uvidí vždy (zamezit tomu lze pouze odstraněním z tohoto "
+"seznamu)."
+
+#: ../modules/coming_soon/mod.php:99
+msgid ""
+"<span class=\"excludeOrShow exclude\">Exclude</span> / <span class="
+"\"excludeOrShow show\">Show</span> only on URLs"
+msgstr ""
+"<span class=\"excludeOrShow exclude\">Vyloučit</span> / <span class="
+"\"excludeOrShow show\">Zobrazit</span> pouze na URL adresách"
+
+#: ../modules/coming_soon/mod.php:100
+msgid ""
+"By default while your site is under construction - all users will see this "
+"in all links on your site. But here you can list links where you want to "
+"disable Under Contsruction mode (or vice versa - depending on Exclude/Show "
+"Only option). Just print links here, each link - from new line."
+msgstr ""
+"Ve výchozím stavu pokud je web ve výstavbě uvidí všichni uživatelé tyto "
+"všechny odkazy na váš web. Ale zde můžete uvést seznam odkazů, které chcete "
+"zakázat v režimu Výstavby webu (nebo naopak povolit / zobrazit)- Jednoduše "
+"vlož odkazy sem, každý odkaz na nový řádek."
+
+#: ../modules/coming_soon/mod.php:119
+msgid ""
+"<span class=\"hideForIpBtn hide\">Hide</span> / <span class=\"hideForIpBtn "
+"show\">Show</span> Only for IP"
+msgstr ""
+"<span class=\"hideForIpBtn hide\">Skrýt</span> / <span class=\"hideForIpBtn "
+"show\">Zobrazit</span> pouze pro IP"
+
+#: ../modules/coming_soon/mod.php:120
+msgid ""
+"For those IPs comming soon will not be displayed (or vice versa - depending "
+"on Hide/Show Only option)."
+msgstr ""
+"Pro návštěvníky přicházející z těchto IP adres nebude zobrazeno (nebo naopak "
+"- záleží na nastavení volby Skrýt/Zobrazit)."
+
+#: ../modules/coming_soon/mod.php:124
+msgid "Show IPs list"
+msgstr "Zobrazit seznam IP adres"
+
+#: ../modules/coming_soon/mod.php:292 ../modules/coming_soon/mod.php:295
+msgid "Coming Soon Mode is Enabled"
+msgstr "Coming Soon režim je aktivní"
+
+#: ../modules/coming_soon/views/tpl/csSettingsTabContent.php:101
+#: ../modules/mail/views/tpl/mailAdmin.php:47
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:60
+#, php-format
+msgid "Turned On %s"
+msgstr "Zapnuto %s"
+
+#: ../modules/coming_soon/views/tpl/csSettingsTabContent.php:102
+#: ../modules/mail/views/tpl/mailAdmin.php:48
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:61
+#, php-format
+msgid "Turned Off %s"
+msgstr "Vypnuto %s"
+
+#: ../modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr ""
+"Nyní zkontrolujte svoji e-mailovou schránku (případně i spamovou složku). "
+"Čeká vás tam testovací e-mail."
+
+#: ../modules/mail/mod.php:37
+msgid "Can not send email - problem with send server"
+msgstr "Nepodařilo se odeslat e-mail - problém s odesílacím serverem."
+
+#: ../modules/mail/mod.php:50
+msgid "Mail"
+msgstr "Mail"
+
+#: ../modules/mail/mod.php:52
+msgid "Mail function tested and work"
+msgstr "Mailová funkce byla otestována a pracuje správně"
+
+#: ../modules/mail/mod.php:53
+msgid "Notify Email"
+msgstr "E-mailové upozornění"
+
+#: ../modules/mail/mod.php:53
+msgid "Email address used for all email notifications from plugin"
+msgstr "E-mailová adresa použitá pro všechna e-mailová upozornění z pluginu"
+
+#: ../modules/mail/models/mail.php:7
+#, fuzzy
+#| msgid "Test email functionality"
+msgid "Test email functionslity"
+msgstr "Test funkčnosti e-mailu"
+
+#: ../modules/mail/models/mail.php:8
+#, php-format
+msgid "This is test email for testing email functionality on your site, %s."
+msgstr ""
+"Toto je testovací e-mail pro otestování funkcionality rozesílání zpráv na "
+"webu, %s."
+
+#: ../modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr "Prázdná e-mailová adresa"
+
+#: ../modules/octo/controller.php:194
+msgid "Done, redirecting to new PopUp..."
+msgstr "Hotovo, přesměrovávám na nové PopUp..."
+
+#: ../modules/octo/models/octo.php:107 ../modules/octo/models/octo.php:239
+msgid "Invalid Octo ID"
+msgstr "Neplatné Octo ID"
+
+#: ../modules/octo/models/octo_blocks.php:169
+msgid "Invalid Original ID"
+msgstr "Neplatné Original ID"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:542
+msgid "Text"
+msgstr "Text"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:543
+msgid "Email"
+msgstr "E-mail"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:590
+msgid "To use this subscribe engine - you must have <a target='_blank' href='"
+msgstr ""
+"Pro použití tohoto přihlašovacího mechanismu - musíte mít <a target='_blank' "
+"href='"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:591
+msgid "Please, Select the value!"
+msgstr "Zvolte prosím číslo."
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:596
+msgid "Supsystic Subscription Lists"
+msgstr "Supsystic seznam přihlášených"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:603
+msgid ""
+"You have no Subscribe lists in Newsletter plugin. Please create new list at "
+"first, then select it here."
+msgstr ""
+"Nemáte žádné Seznamy přihlášených k nastavení pro plugin Newsletter. Prosím "
+"vytvořte nejprve nový seznam a poté ho zde zvolte."
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:612
+msgid "You can find List ID under your Aweber account"
+msgstr "Ve vašem Aweber účtu neexistuje dané List ID"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:618
+msgid ""
+"You can easy track your subscribers using this feature. You can find AD "
+"Tracking under your Aweber account."
+msgstr ""
+"Pomocí této volby můžete jednoduše sledovat přihlášené. Pomocí Aweber účtu "
+"můžete hledat AD Tracking."
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:624
+msgid ""
+"To find your MailChimp API Key login to your mailchimp account at http://"
+"mailchimp.com then from the left main menu, click on your Username, then "
+"select \"Account\" in the flyout menu. From the account page select \"Extras"
+"\", \"API Keys\". Your API Key will be listed in the table labeled \"Your "
+"API Keys\". Copy / Paste your API key into \"MailChimp API key\" field here."
+msgstr ""
+"MailChimp API Key najdete po přihlášení do mailchimp účtu na adrese http://"
+"mailchimp.com , poté vlevo v menu klikněte na své uživatelské jméno, vyberte "
+"\"Account\" v rozbalené nabídce. Na stránce s účtem zvolte \"Extras\", \"API "
+"Keys\". API klíč bude vypsán v tabulce označené \"Your API Keys\". Jednoduše "
+"zkopírujte a vložte API key do pole \"MailChimp API key\" zde."
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:631
+msgid "Choose Lists"
+msgstr "Zvolte seznam"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:640
+#: ../modules/subscribe/controller.php:28
+msgid "Confirmation link was sent to your email address. Check your email!"
+msgstr ""
+"Potvrzující odkaz byl odeslán na e-mailovou adresu. Zkontrolujte svůj e-mail!"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:646
+#: ../modules/subscribe/controller.php:32
+#: ../modules/subscribe/views/tpl/subSuccessPage.php:55
+msgid "Thank you for subscribe!"
+msgstr "Děkujeme za přihlášení!"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:652
+#: ../modules/subscribe/models/subscribe.php:112
+msgid "Empty or invalid email"
+msgstr "Prázdný nebo neplatný e-mail"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:670
+#: ../modules/subscribe/models/subscribe.php:298
+msgid "Confirm subscription on [sitename]"
+msgstr "Potvrďte přihlášení na [sitename]"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:682
+#: ../modules/subscribe/models/subscribe.php:301
+msgid ""
+"You subscribed on site <a href=\"[siteurl]\">[sitename]</a>. Follow <a href="
+"\"[confirm_link]\">this link</a> to complete your subscription. If you did "
+"not subscribe here - just ignore this message."
+msgstr ""
+"Vaše přihlášení na web<a href=\"[siteurl]\">[sitename]</a>. Klikni na <a "
+"href=\"[confirm_link]\">tento odkaz</a> pro dokončení akce. Pokud se "
+"nechcete přihlašovat, jednoduše tento e-mail ignorujte. "
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:690
+msgid "[sitename] Your username and password"
+msgstr "[sitename] Vaše uživatelské jméno a heslo"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:696
+msgid "Subscribe to [sitename]"
+msgstr "Přihlášení k [sitename]"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:708
+msgid "Username: [user_login]<br />Password: [password]<br />[login_url]"
+msgstr ""
+"Uživatelské jméno: [user_login]<br />Heslo: [password]<br />[login_url]"
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:714
+msgid ""
+"Hello!<br />Congratulations! You have successfully subscribed to the site <a "
+"href=\"[siteurl]\">[sitename]</a>."
+msgstr ""
+"Dobrý den!<br />Gratulujeme! Byli jste úspěšně přihlášení k  <a href="
+"\"[siteurl]\">[sitename]</a>."
+
+#: ../modules/octo/views/tpl/octoEditorFooter.php:739
+msgid "Search, for example - pencil, music, ..."
+msgstr "Hledání, například - tužka, hudba, ..."
+
+#: ../modules/octo/views/tpl/octoMainMetaBox.php:4
+#, php-format
+msgid "Activate %s"
+msgstr "Aktivovat %s"
+
+#: ../modules/octo/views/tpl/octoMainMetaBox.php:16
+#, php-format
+msgid "Deactivate %s"
+msgstr "Deaktivovat %s"
+
+#: ../modules/octo/views/tpl/octoRenderForPost.php:148
+msgid "Stretch"
+msgstr "Roztáhnout"
+
+#: ../modules/octo/views/tpl/octoRenderForPost.php:148
+msgid "Center"
+msgstr "Na střed"
+
+#: ../modules/octo/views/tpl/octoRenderForPost.php:148
+msgid "Tile"
+msgstr "Dlaždice"
+
+#: ../modules/options/mod.php:108
+msgid "System"
+msgstr "Systém"
+
+#: ../modules/options/mod.php:111
+msgid "Send usage statistics"
+msgstr "Zaslat statistiku využívání"
+
+#: ../modules/options/mod.php:111
+msgid ""
+"Send information about what plugin options you prefer to use, this will help "
+"us make our solution better for You."
+msgstr ""
+"Zasílat informace o využívání možností pluginu, vašich preferencích atd. "
+"Pomůže nám v dalším vývoji lepších řešení pro Vás."
+
+#: ../modules/options/mod.php:112
+msgid "Enable promo link"
+msgstr "Povolit reklamní odkaz"
+
+#: ../modules/options/mod.php:112
+msgid ""
+"We are trying to make our plugin better for you, and you can help us with "
+"this. Just check this option - and small promotion link will be added in the "
+"bottom of your Coming Soon page. This is easy for you - but very helpful for "
+"us!"
+msgstr ""
+"Snažíme se vytvářet nejlepší pluginy pro vás a vy nám s tím můžete pomoci. "
+"Jednoduše zapněte tuto volbu. Na web se do patičky přidá malý odkaz. "
+"Jednoduché pro vás - velmi užitečné pro nás."
+
+#: ../modules/options/models/modules.php:32
+msgid "Module Updated"
+msgstr "Modul aktualizován"
+
+#: ../modules/options/models/modules.php:47
+msgid "Module Update Failed"
+msgstr "Aktualizace modulu selhala"
+
+#: ../modules/options/models/modules.php:50
+msgid "Error module ID"
+msgstr "Chyba ID modulu"
+
+#: ../modules/options/models/options.php:69
+msgid "Empty data to save option"
+msgstr "Prázdná data k uložení"
+
+#: ../modules/options/views/tpl/optionsAdminPage.php:38
+#, php-format
+msgid ""
+"Please be advised that this option is available only in <a target=\"_blank\" "
+"href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class="
+"\"button\">Get PRO</a> today and get this and other PRO option for your "
+"PopUps!"
+msgstr ""
+"Tato volba je dostupná pouze v <a target=\"_blank\" href=\"%s\">PRO verzi</"
+"a>. Získat <a target=\"_blank\" href=\"%s\" class=\"button\">PRO verzi</a> "
+"můžete hned teď včetně dalších zajímavých PRO možností!"
+
+#: ../modules/subscribe/mod.php:12
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../modules/subscribe/mod.php:13
+msgid "Aweber"
+msgstr "Aweber"
+
+#: ../modules/subscribe/mod.php:14
+msgid "MailChimp"
+msgstr "Mailchimp"
+
+#: ../modules/subscribe/mod.php:15
+msgid "Newsletter by Supsystic"
+msgstr "Zpravodaj od Supsystic"
+
+#: ../modules/subscribe/models/subscribe.php:29
+msgid "Something goes wrong"
+msgstr "Něco je špatně"
+
+#: ../modules/subscribe/models/subscribe.php:72
+msgid "Can't detect your IP, please don't spam"
+msgstr "Nelze detekovat Vaši IP adresu, prosím nespamujte"
+
+#: ../modules/subscribe/models/subscribe.php:104
+msgid "You just subscribed from this IP"
+msgstr "Z této IP adresy jste již přihlášen"
+
+#: ../modules/subscribe/models/subscribe.php:181
+msgid "Can't subscribe for now. Please try again latter."
+msgstr "Momentálně se nejde přihlásit. Zkuste to později."
+
+#: ../modules/subscribe/models/subscribe.php:223
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr "Nová registrace na Vás web %s."
+
+#: ../modules/subscribe/models/subscribe.php:224
+#, php-format
+msgid "Username: %s"
+msgstr "Uživatelské jméno: %s"
+
+#: ../modules/subscribe/models/subscribe.php:225
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#: ../modules/subscribe/models/subscribe.php:231
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] Registrace nového uživatele"
+
+#: ../modules/subscribe/models/subscribe.php:342
+msgid "Send me some info, pls"
+msgstr "Pošlete mi nějaké informace, prosím"
+
+#: ../modules/subscribe/models/subscribe.php:373
+msgid ""
+"MailChimp require CURL to be setup on your server. Please contact your "
+"hosting provider and ask them to setup CURL libruary for you."
+msgstr ""
+"MailChimp vyžaduje podporu CURL na vašem serveru. Kontaktujte prosím "
+"poskytovatele hostingu a zeptejte se ho na možnosti podpory knihovny CURL."
+
+#: ../modules/subscribe/models/subscribe.php:397
+msgid ""
+"There was some problem while trying to get your lists. Make sure that your "
+"API key is correct."
+msgstr ""
+"Při práci se seznamy došlo k chybě. Ověřte prosím, zda je API key správně "
+"uveden."
+
+#: ../modules/subscribe/models/subscribe.php:401
+msgid "Empty API key"
+msgstr "Prázdný API klíč"
+
+#: ../modules/subscribe/models/subscribe.php:457
+msgid ""
+"Something going wrong while trying to send data to MailChimp. Please contact "
+"site owner."
+msgstr ""
+"Něco selhalo při práci s daty na MailChimpu. Kontaktujte prosím vlastníka "
+"webu."
+
+#: ../modules/subscribe/models/subscribe.php:470
+msgid ""
+"No API key entered in admin area - contact site owner to resolve this issue."
+msgstr ""
+"V administraci nebyl zadaný API klíč - kontaktujte vlastníka webu pro "
+"vyřešení tohoto problému."
+
+#: ../modules/subscribe/models/subscribe.php:472
+msgid ""
+"No lists to add selected in admin area - contact site owner to resolve this "
+"issue."
+msgstr ""
+"V administraci nebyly vytvořené seznamy - kontaktujte vlastníka webu pro "
+"vyřešení tohoto problému."
+
+#: ../modules/subscribe/models/subscribe.php:523
+msgid "Some error occured during subscription process"
+msgstr "Během přihlášení nastaly chyby"
+
+#: ../modules/subscribe/models/subscribe.php:526
+msgid "Can't find MailPoet on this server"
+msgstr "MailPoet nebyl na serveru nalezen"
+
+#: ../modules/subscribe/models/subscribe.php:579
+msgid "Can't find Newsletter by Supsystic plugin on this server"
+msgstr "Plugin Newsletter by Supsystic nebyl na serveru nalezen"
+
+#: ../modules/subscribe/views/tpl/subSuccessPage.php:70
+#, php-format
+msgid ""
+"<a href=\"%s\">Back to site</a> in <i id=\"octConfirmBackCounter\">%d</i> "
+"seconds"
+msgstr ""
+"<a href=\"%s\">Zpět na stránku</a> za <i id=\"octConfirmBackCounter\">%d</i> "
+"sekund"
+
+#: ../modules/supsystic_promo/controller.php:7
+msgid "Information was saved. Thank you!"
+msgstr "Informace byla uložena. Díky!"
+
+#: ../modules/supsystic_promo/controller.php:23
+msgid ""
+"Please don't send contact requests so often - wait for response for your "
+"previous requests."
+msgstr ""
+"Nezasílejte prosím žádost o kontakt příliš často - vyčkejte nejprve odezvy "
+"na předchozí požadavek."
+
+#: ../modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr "Zadejte prosím platnou e-mailovou adresu"
+
+#: ../modules/supsystic_promo/mod.php:36
+#, php-format
+msgid ""
+"<h3>Hey, I noticed you just use %s over a week – that’s awesome!</"
+"h3><p>Could you please do me a BIG favor and give it a 5-star rating on "
+"WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+"<h3>Zdravíme, všimli jsme si, že používáte již nějaký ten den %s – to je "
+"úžasné!</h3><p>Mohli bychom prosím požádat o přidělení 5-hvězdičkového "
+"hodnocení na WordPress? Moc nám to pomůže rozšířit naše pluginy do světa a "
+"zvýší naši motivaci.</p>"
+
+#: ../modules/supsystic_promo/mod.php:37 ../modules/supsystic_promo/mod.php:43
+msgid "Ok, you deserve it"
+msgstr "OK, opustit"
+
+#: ../modules/supsystic_promo/mod.php:38 ../modules/supsystic_promo/mod.php:44
+msgid "Nope, maybe later"
+msgstr "Ne, možná později"
+
+#: ../modules/supsystic_promo/mod.php:39
+msgid "I already did"
+msgstr "Už jsem udělal"
+
+#: ../modules/supsystic_promo/mod.php:40
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr "<h3>Více než 11 dnů s naším %s pluginem - gratulujeme!</h3>"
+
+#: ../modules/supsystic_promo/mod.php:41
+msgid ""
+"<p>On behalf of the entire <a href=\"https://supsystic.com/\" target=\"_blank"
+"\">supsystic.com</a> company I would like to thank you for been with us, and "
+"I really hope that our software helped you.</p>"
+msgstr ""
+"<p>Za naši společnost <a href=\"https://supsystic.com/\" target=\"_blank"
+"\">supsystic.com</a> bychom rádi poděkovali, že používáte náš software a "
+"pomáhá Vám naplňovat vaše cíle.</p>"
+
+#: ../modules/supsystic_promo/mod.php:42
+msgid ""
+"<p>And today, if you want, - you can help us. This is really simple - you "
+"can just add small promo link to our site at the bottom of your Coming Soon "
+"page. This is small step for you, but a big help for us! Sure, if you don't "
+"want - just skip this and continue enjoy our software!</p>"
+msgstr ""
+"<p>A dnes, pokud chcete - můžete pomoci vy nám. Je to velmi jednoduché - "
+"přidejte malý nenápadný promo odkaz do patičky Coming soon stránky. Je to "
+"drobnost pro vás, ale velká pomoc pro nás. Pokud nechcete, jednoduše tuto "
+"výzvu ignorujte a dál používejte s radostí náš plugin!</p>"
+
+#: ../modules/supsystic_promo/mod.php:45
+msgid "Skip"
+msgstr "Přeskočit"
+
+#: ../modules/supsystic_promo/mod.php:47
+#, php-format
+msgid ""
+"Check out <a href=\"%s\" target=\"_blank\" class=\"button button-primary\" "
+"data-statistic-code=\"hide\">our other Plugins</a>! Years of experience in "
+"WordPress plugins developers made those list unbreakable!"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:96
+msgid "Overview"
+msgstr "Přehled"
+
+#: ../modules/supsystic_promo/mod.php:99
+msgid "Featured Plugins"
+msgstr "Doporučené pluginy"
+
+#: ../modules/supsystic_promo/mod.php:125
+msgid "Welcome to Supsystic"
+msgstr "Vítejte u Supsystic"
+
+#: ../modules/supsystic_promo/mod.php:195
+msgid "Your name"
+msgstr "Tvoje jméno"
+
+#: ../modules/supsystic_promo/mod.php:196
+msgid "Your email"
+msgstr "Tvůj e-mail"
+
+#: ../modules/supsystic_promo/mod.php:197
+msgid "Website"
+msgstr "WWW"
+
+#: ../modules/supsystic_promo/mod.php:198
+msgid "Subject"
+msgstr "Předmět"
+
+#: ../modules/supsystic_promo/mod.php:199
+msgid "Topic"
+msgstr "Téma"
+
+#: ../modules/supsystic_promo/mod.php:200
+msgid "Plugin options"
+msgstr "Nastavení pluginu."
+
+#: ../modules/supsystic_promo/mod.php:201
+msgid "Report a bug"
+msgstr "Nahlásit chybu"
+
+#: ../modules/supsystic_promo/mod.php:202
+msgid "Require a new functionallity"
+msgstr "Požadavek na novou funkci"
+
+#: ../modules/supsystic_promo/mod.php:203
+msgid "Other"
+msgstr "Další"
+
+#: ../modules/supsystic_promo/mod.php:205
+msgid "Message"
+msgstr "Zpráva"
+
+#: ../modules/supsystic_promo/mod.php:205
+msgid "Hello Supsystic Team!"
+msgstr "Ahoj Supsystic týme!"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:46
+#: ../modules/supsystic_promo/views/supsystic_promo.php:51
+#: ../modules/supsystic_promo/views/supsystic_promo.php:53
+#: ../modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "Yes"
+msgstr "Ano"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:46
+#: ../modules/supsystic_promo/views/supsystic_promo.php:51
+#: ../modules/supsystic_promo/views/supsystic_promo.php:53
+#: ../modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "No"
+msgstr "Ne"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:68
+msgid "Popup Plugin"
+msgstr "Popup Plugin"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:68
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, "
+"social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+"Nejlepší Wordpress PopUp plugin umožňující získat více přihlášených, "
+"odběratelů sociálních sítí a inzerentů. Responsivní pop-up okna s velkou "
+"mírou nastavení."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:69
+msgid "Photo Gallery Plugin"
+msgstr "Photo Gallery Plugin"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:69
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+"Photo Gallery Plugin s řadou skvělých rozložení fotek pomůže vytvořit "
+"kvalitní fotografická portfolia a obrázkové galerie."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:70
+msgid "Contact Form Plugin"
+msgstr "Contact Form Plugin"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:70
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+"Jeden z nejlepších pluginů pro vytváření kontaktních formulářů na Wordpress "
+"webech. Upravitelný font, pozadí a možnost doplnění vlastních políček."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:71
+msgid "Newsletter Plugin"
+msgstr "Newsletter Plugin"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:71
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will "
+"have no need to control it or send them manually. No coding, hard skills or "
+"long hours of customizing are required."
+msgstr ""
+"Supsystic Newsletter plugin pro automatický e-mailing vašich zpravodajů. "
+"Nepotřebujete nic kontrolovat ani ručně rozesílat. Žádné programování, žádné "
+"hluboké znalosti a nutnost složitého upravování."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:72
+#, fuzzy
+#| msgid "Newsletter by Supsystic"
+msgid "Membership by Supsystic"
+msgstr "Zpravodaj od Supsystic"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:72
+msgid ""
+"Create online membership community with custom user profiles, roles, "
+"FrontEnd registration and login. Members Directory, activity, groups, "
+"messages."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:73
+msgid "Data Tables Generator"
+msgstr "Data Tables Generator"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:73
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML "
+"knowledge is required."
+msgstr ""
+"Tvorba a správa úžasně vypadajících tabulek s vlastním designem. Není třeba "
+"znalost HTML."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:74
+msgid "Slider Plugin"
+msgstr "Slider Plugin"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:74
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select "
+"images from your WordPress Media Library, Flickr, Instagram or Facebook, set "
+"slide captions, links and SEO fields all from one page."
+msgstr ""
+"Tvorba slideshow pomocí Slider pluginu je rychlá a jednoduchá. Jednoduše "
+"vyber obrázek z Wordpress Media knihovny, Flickeru, Instragramu nebo "
+"Facebooku, nastav popisky, odkazy, SEO políčka a to všechno na jedné stránce."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:75
+msgid "Social Share Buttons"
+msgstr "Social Share Buttons"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:75
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social "
+"sharing to Facebook, Twitter and other social networks."
+msgstr ""
+"Sociální tlačítka pro zvýšení trafficu ze sociálních sítí. Sdílení na "
+"Facebooku, Twitteru a dalších sociálních sítích."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:76
+msgid "Live Chat Plugin"
+msgstr "Live Chat Plugin"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:76
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by "
+"Supsystic. Help you visitors, support them in real-time with exceptional "
+"Live Chat WordPress plugin by Supsystic."
+msgstr ""
+"Buďte blíže vašim návštěvníkům a zákazníkům pomocí Live Chat podpory od "
+"Supsystic. Pomáhejte návštěvníkům podporou v reálném času pomocí výjimečného "
+"Live Chat Wordpress pluginu od Supsystic."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:77
+msgid "Pricing Table"
+msgstr "Pricing Table"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:77
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables "
+"with table builder. Any element of the table can be customise with mouse "
+"click."
+msgstr ""
+"Nikdy nebylo jednodušší vytvořit a spravovat ceníky a porovnávací tabulky "
+"než s tímto nástrojem. Jakákoliv část tabulky může být upravena pomocí "
+"kliknutí myší."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:78
+msgid "Coming Soon Plugin"
+msgstr "Coming Soon Plugin"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:78
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | "
+"maintenance mode to notify visitors and collects emails."
+msgstr ""
+"Coming soon stránka s podporou drag-and-drop vytváření a režimu \"výstavby "
+"webu\" nebo \"údržby\", která informuje návštěvníky a umí sbírat e-maily."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:79
+msgid "Backup Plugin"
+msgstr "Backup Plugin"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:79
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and "
+"unhitched DropBox, FTP, Amazon S3, Google Drive backup for your WordPress "
+"website."
+msgstr ""
+"Backup and Restore WordPress Plugin od Supsystic umožňuje rychlou a "
+"spolehlivou zálohu a obnovení WordPress webu na DropBox, FTP, Amazon S3 nebo "
+"Google Drive."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:80
+msgid "Google Maps Easy"
+msgstr "Google Maps Easy"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:80
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+"Zobrazení vlastních Google map. Nastavte si piny a lokace včetně textu, "
+"obrázků, kategorií a odkazů. Úprava google map je nyní jednoduchá a "
+"intuitivní."
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:81
+msgid "Digital Publication Plugin"
+msgstr "Digital Publication Plugin"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:81
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+"Digital Publication WordPress Plugin od Supsystic pro magazíny, katalogy, "
+"portfolia. Konverze obrázků, příspěvků, PDF do otáčecí knížky"
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:82
+msgid "Kinsta Hosting"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:82
+msgid ""
+"If you want to host a business site or a blog, Kinsta managed WordPress "
+"hosting is the best place to stop on. Without any hesitation, we can say "
+"Kinsta is incredible when it comes to uptime and speed."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/discountMsg.php:37
+#, php-format
+msgid ""
+"Upgrade to bundle and get an access to <a href=\"%s\" target=\"_blank\">all "
+"14 plugins</a> more than 80%% off!"
+msgstr ""
+
+#~ msgid "All Blocks"
+#~ msgstr "Všechny bloky"
+
+#~ msgid "Empty Label"
+#~ msgstr "Prázdný popisek"
+
+#~ msgid "Editor Block %s"
+#~ msgstr "Editor bloků %s "
+
+#~ msgid "Param Key"
+#~ msgstr "Klíč parametru"
+
+#~ msgid "Param Value"
+#~ msgstr "Klíč hodnoty"
+
+#~ msgid ""
+#~ "Your license is expired. Once you extend your license - you will be able "
+#~ "to Update PRO version. To extend PRO version license - follow <a href=\"%s"
+#~ "\" target=\"_blank\">this link</a>, then - go to <a href=\"%s\">License</"
+#~ "a> tab anc click on \"Activate\" button to Activate your PRO "
+#~ "version."
+#~ msgstr ""
+#~ "Licence expirovala. Pokud chceš licenci prodloužit, můžeš přejít na verzi "
+#~ "PRO. Prodloužení pomocí PRO verze - přejdi na <a href=\"%s\" target="
+#~ "\"_blank\">tento odkaz</a>, poté klikni na <a href=\"%s\">License</a> "
+#~ "záložku a klikni na tlačítko \"Activate\". Tím znovu aktivuješ PRO "
+#~ "verzi."
+
+#~ msgid ""
+#~ "Your license for PRO version of %s plugin - expired. You can <a href=\"%s"
+#~ "\" target=\"_blank\">click here</a> to extend your license, then - go to "
+#~ "<a href=\"%s\">License</a> tab anc click on \"Activate\" button to re-"
+#~ "activate your PRO version."
+#~ msgstr ""
+#~ "Licence na PRO verzi od pluginu %s expirovala. Můžeš <a href=\"%s\" "
+#~ "target=\"_blank\">kliknout zde</a> pro prodloužení licence, pak klikni na "
+#~ "záložku <a href=\"%s\">License</a> a klikni na tlačítko \"Activate\"."
+
+#~ msgid "License"
+#~ msgstr "Licence"
+
+#~ msgid "Please enter your License Key"
+#~ msgstr "Zadej Licenční klíč"
+
+#~ msgid "Please enter your Email address"
+#~ msgstr "Zadej svoji e-mailovou adresu"
+
+#~ msgid ""
+#~ "There was a problem with sending request to our autentification server. "
+#~ "Please try latter."
+#~ msgstr ""
+#~ "Objevil se problém během odesílání požadavku na autorizační server. Zkus "
+#~ "to prosím později."
+
+#~ msgid "License for plugin %s will expire today."
+#~ msgstr "Licence pro plugin %s expiruje dnes."
+
+#~ msgid "License for plugin %s will expire tomorrow."
+#~ msgstr "Licence pro plugin %s expiruje zítra."
+
+#~ msgid "License for plugin %s will expire in %d days."
+#~ msgstr "Licence pro plugin %s expiruje během %d dnů."
+
+#~ msgid ""
+#~ "Congradulations! PRO version of %s plugin is activated and working fine!"
+#~ msgstr ""
+#~ "Gratulujeme! PRO verze pluginu %s je aktivována a funguje bez problémů!"
+
+#~ msgid ""
+#~ "Your license for PRO version of %s plugin - expired. You can <a href=\"%s"
+#~ "\" target=\"_blank\">click here</a> to extend your license, then - click "
+#~ "on \"Activate\" button to Activate your PRO version."
+#~ msgstr ""
+#~ "Licence PRO verze pluginu %s expirovala. Pro prodloužení přejdi na <a "
+#~ "href=\"%s\" target=\"_blank\">tento odkaz</a>, poté klikni na tlačítko "
+#~ "\"Activate\". Tím znovu aktivuješ PRO verzi."
+
+#~ msgid ""
+#~ "Congradulations! You have successfully installed PRO version of %s "
+#~ "plugin. Final step to finish Your PRO version setup - is to enter your "
+#~ "Email and License Key on this page. This will activate Your copy of "
+#~ "software on this site."
+#~ msgstr ""
+#~ "Gratulujeme! Úspěšně jste nainstalovali PRO verzi %s pluginu. Posledním "
+#~ "krokem k dokončení nastavení PRO verze je zadání e-mailové adresy a "
+#~ "licenčního klíče na tuto stránku. To dokončí aktivaci vaší kopie pluginu."
+
+#~ msgid ""
+#~ "Your email address, used on checkout procedure on <a href=\"%\" target="
+#~ "\"_blank\">%s</a>"
+#~ msgstr ""
+#~ "Vaše e-mailová adresa požitá při nákupu na <a href=\"%\" target=\"_blank"
+#~ "\">%s</a>"
+
+#~ msgid ""
+#~ "Your License Key from your account on <a href=\"%\" target=\"_blank\">%s</"
+#~ "a>"
+#~ msgstr ""
+#~ "Licenční klíč pro váš účet na  <a href=\"%\" target=\"_blank\">%s</a>"
+
+#~ msgid ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+#~ msgstr ""
+#~ "Neočekávaná HTTP chyba během API požadavku.</p> <p><a href=\"?\" onclick="
+#~ "\"document.location.reload(); return false;\">Zkusit znovu</a>"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "Nastala neznámá chyba"
